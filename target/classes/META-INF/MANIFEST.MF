@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-crud-rest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ddsth
+Implementation-Vendor-Id: net.guides.springboot
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://spring.io/projects/spring-boot/springboot-
+ crud-rest
+Created-By: Maven Integration for Eclipse
+
